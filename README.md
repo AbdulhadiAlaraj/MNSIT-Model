@@ -5,8 +5,8 @@ This project is an implementation of a neural network model to recognize handwri
 
 ## Features
 - **Image preprocessing:** Converts images to the format required by the model (28x28 grayscale).
-- :**MNIST model training::** A simple yet effective neural network trained on the MNIST dataset.
-- :**Digit prediction::** Predicts the digit from an input image.
+- **MNIST model training:** A simple yet effective neural network trained on the MNIST dataset.
+- **Digit prediction:** Predicts the digit from an input image.
 
 ## Requirements
 - Python
